@@ -1,0 +1,37 @@
+{
+  "name": "@xqd/telegraf-session-rethinkdb",
+  "version": "0.1.0",
+  "description": "RethinkDB session middleware for Telegraf",
+  "main": "lib/session.js",
+  "engines": {
+    "node": ">=7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xqd/telegraf-session-rethinkdb.git"
+  },
+  "keywords": [
+    "telegram",
+    "telegram bot",
+    "telegraf",
+    "bot framework",
+    "session",
+    "middleware",
+    "rethinkdb"
+  ],
+  "dependencies": {
+    "debug": "^2.6.0",
+    "deep-equal": "^1.0.1",
+    "debug": "^2.2.0",
+    "rethinkdb": "^2.3.1"
+  },
+  "author": "xqd <heyxqd@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xqd/telegraf-session-rethinkdb/issues"
+  },
+  "homepage": "https://github.com/xqd/telegraf-session-rethinkdb#readme"
+}
